@@ -1,4 +1,4 @@
-# NeuroStack
+# Cognix Lab
 
 Think Better. Live Smarter.
 

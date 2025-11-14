@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4 bg-gradient-to-r from-[#4A90E2] to-[#9B51E0] bg-clip-text text-transparent">
-              NeuroStack
+              Cognix Lab
             </h3>
             <p className="text-gray-400 text-sm">
               Think Better. Live Smarter.
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm text-gray-400">
-          <p>&copy; 2024 NeuroStack. All rights reserved.</p>
+          <p>&copy; 2024 Cognix Lab. All rights reserved.</p>
         </div>
       </div>
     </footer>

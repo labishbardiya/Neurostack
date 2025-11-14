@@ -34,7 +34,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold bg-gradient-to-r from-[#4A90E2] to-[#9B51E0] bg-clip-text text-transparent">
-              NeuroStack
+              Cognix Lab
             </span>
           </Link>
 

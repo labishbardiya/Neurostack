@@ -113,7 +113,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <div className="font-semibold">Twitter</div>
-                    <div className="text-sm text-gray-600">@neurostack</div>
+                    <div className="text-sm text-gray-600">@cognixlab</div>
                   </div>
                 </a>
                 <a
@@ -125,7 +125,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <div className="font-semibold">LinkedIn</div>
-                    <div className="text-sm text-gray-600">NeuroStack</div>
+                    <div className="text-sm text-gray-600">cognix Lab</div>
                   </div>
                 </a>
                 <a
@@ -137,7 +137,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <div className="font-semibold">GitHub</div>
-                    <div className="text-sm text-gray-600">github.com/neurostack</div>
+                    <div className="text-sm text-gray-600">github.com/cognixlab</div>
                   </div>
                 </a>
               </div>

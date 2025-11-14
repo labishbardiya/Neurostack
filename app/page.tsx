@@ -191,8 +191,8 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">The Solution</h2>
-            <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              NeuroStack trains deliberate thinking, cortical clarity, and structured reasoning.
+              <p className="text-xl text-gray-700 max-w-3xl mx-auto">
+              Cognix Lab trains deliberate thinking, cortical clarity, and structured reasoning.
             </p>
           </motion.div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -366,7 +366,7 @@ export default function Home() {
                 Subconscious uses automatic cheap loops; deliberate thinking rewires circuits. When you engage in structured reasoning, you're literally building new neural pathways.
               </p>
               <p>
-                NeuroStack trains you to use your PFC efficiently—activating it when needed, conserving energy when not, and building stronger cognitive circuits over time.
+                Cognix Lab trains you to use your PFC efficiently—activating it when needed, conserving energy when not, and building stronger cognitive circuits over time.
               </p>
             </div>
           </motion.div>

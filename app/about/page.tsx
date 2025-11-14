@@ -13,7 +13,7 @@ export default function AboutPage() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">About NeuroStack</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">About Cognix Lab</h1>
         </motion.div>
 
         <div className="space-y-12">
@@ -32,7 +32,7 @@ export default function AboutPage() {
               In a world where AI can generate information at scale, human thinking becomes more valuable—but only if we can think clearly, reason systematically, and maintain cognitive clarity.
             </p>
             <p className="text-gray-600">
-              NeuroStack exists to help humans restore clarity, deepen reasoning, and build a personal "Mind OS" that enables deliberate, structured thinking in an age of information overload.
+              Cognix Lab exists to help humans restore clarity, deepen reasoning, and build a personal "Mind OS" that enables deliberate, structured thinking in an age of information overload.
             </p>
           </motion.section>
 
@@ -85,13 +85,13 @@ export default function AboutPage() {
                 The prefrontal cortex (PFC) consumes the most energy during deep reasoning. It's what enables you to make complex decisions, solve novel problems, and think beyond immediate reactions. But it's also easily depleted. Decision fatigue, context-switching, and constant notifications drain your PFC budget.
               </p>
               <p>
-                NeuroStack trains you to use your PFC strategically. We teach you when to activate deliberate thinking and when to rely on automatic systems. We help you build stronger neural pathways through structured frameworks. We show you how to think clearly in a world designed to fragment your attention.
+                Cognix Lab trains you to use your PFC strategically. We teach you when to activate deliberate thinking and when to rely on automatic systems. We help you build stronger neural pathways through structured frameworks. We show you how to think clearly in a world designed to fragment your attention.
               </p>
               <p>
                 PFC-powered deliberate thinking creates breakthroughs. It's how you see patterns others miss, solve problems others can't, and make decisions others avoid. But it requires training. It requires frameworks. It requires a Mind OS.
               </p>
               <p>
-                That's what NeuroStack provides: a complete thinking system built from cognitive science, systems thinking, and first principles. Not tips and tricks. Not motivational content. A real operating system for your mind.
+                That's what Cognix Lab provides: a complete thinking system built from cognitive science, systems thinking, and first principles. Not tips and tricks. Not motivational content. A real operating system for your mind.
               </p>
             </div>
           </motion.section>
